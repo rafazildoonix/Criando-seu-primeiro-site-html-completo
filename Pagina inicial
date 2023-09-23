@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clínica Médica e Estética Zona Sul</title>
+    <link rel="stylesheet" href="base.css">
+    
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header">
+            <center><img src="bnr_1-16.jpg" width="1000"</center>
+        </div>
+
+
+        <div class="menu">
+            
+            <ul>
+                <li><a href="#">Sobre a clínica</a></li>
+            </ul>
+
+             <ul>
+                <li><a href="#">Contato</a></li>
+            </ul>
+
+            <ul>
+                <li><a href="#">Horário de Atendimento</a></li>
+            </ul>
+
+
+        </div>
+
+        <div class="main">
+            <div class="header">
+                Sobre a clínica
+                A Clínica Médica e Estética Zona Sul dispõe de uma moderna infraestrutura, é uma clínica planejada para lhe atender da forma mais confortável possível.
+                Utilizamos as técnicas mais modernas do mercado, com os mais avançados aparelhos de alta tecnologia! Contamos com ambientes climatizados, elevador para maior acessibilidade e ambientes aconchegantes. Estamos em constante aprimoramento, buscando tudo que há de mais moderno no mercado. Seguimos as mais rigorosas normas de biossegurança. Nosso objetivo é oferecer tratamentos de alta qualidade, com preço justo, buscando sempre o melhor custo benefício para os nossos pacientes, em todas as especialidades da odontologia, em um só lugar.
+            </div>
+    
+            <div class="content">
+                Profissionais qualificados, materiais certificados e esterilização 100% segura.
+                Conte com uma clínica que tenha estrutura moderna e uma equipe preocupado com a sua satisfação.
+            </div>
+    
+            <div class="footer">
+                Copyright 2023 © Clínica Médica e Estética Zona Sul- Todos os direitos reservados | Produzido por @Rafael-B-Silva
+            </div>
+        </div>
+    </div>
+</body>
+</html>
